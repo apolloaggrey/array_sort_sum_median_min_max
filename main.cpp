@@ -1,3 +1,7 @@
+//MIT License
+//
+//Copyright (c) 2016 Aggrey Apollo
+
 #include <iostream>
 
 int main();// decelerator for main
